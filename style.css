@@ -1,6 +1,7 @@
 /*------------------------------------------------------------
 # Global classes
 ------------------------------------------------------------*/
+@import url(href='http://fonts.googleapis.com/css?family=Merienda+One);
 .flex {
     display: flex;
 }
